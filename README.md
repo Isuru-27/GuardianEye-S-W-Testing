@@ -1,5 +1,3 @@
-# GuardianEye-S-W-Testing
-
 # GuardianEye Test Case Report
 
 This repository contains the test case report for the **GuardianEye** application, designed to manage the CCTV Surveillance System for identifying and tracking patients. The test case report is documented in an Excel file, covering various features and functionalities of the application.
